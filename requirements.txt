@@ -1,0 +1,8 @@
+cx_Freeze==6.8.2
+numexpr==2.7.3
+numpy==1.21.4
+paho_mqtt==1.6.1
+PyQt5==5.15.6
+pyqtgraph==0.12.3
+QDarkStyle==3.0.2
+scipy==1.7.2
