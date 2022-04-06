@@ -10,7 +10,7 @@ App.py: Main code\
 ReadData.py: used by App.py. Reads the data from files\
 FakeBoat.py: Test the App's real time functionality. Run FakeBoat.py and then App.py
 
-# Produce executable. 
+# Produce executable
 
 1)Install pyinstaller (pip install pyinstaller) \
 2)Do: ``` pyinstaller --onefile --noconsole --icon=app.ico App.py ```
