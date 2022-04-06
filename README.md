@@ -8,7 +8,7 @@ This Branch has the updated code.
 Requirements.txt: necessary modules to run the app in Python\
 App.py: Main code\
 ReadData.py: used by App.py. Reads the data from files\
-FakeBoat.py: Test the App's real time functionality. Run FakeBoat.py and then App.py\
+FakeBoat.py: Test the App's real time functionality. Run FakeBoat.py and then App.py
 
 # Produce executable. 
 
@@ -19,7 +19,7 @@ Alternatively,\
 1)Install cx_freeze\
 2)Do ``` python setup.py build ```
 
-(Not Working With Python 3.10. Update to 3.10.1 or downgrade)\
+(Not Working With Python 3.10. Update to 3.10.1 or downgrade)
 
 
 
