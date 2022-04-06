@@ -13,11 +13,11 @@ FakeBoat.py: Test the App's real time functionality. Run FakeBoat.py and then Ap
 # Produce executable. 
 
 1)Install pyinstaller (pip install pyinstaller) \
-2)Do: ``` pyinstaller --onefile --noconsole --icon=app.ico App.py ```\
+2)Do: ``` pyinstaller --onefile --noconsole --icon=app.ico App.py ```
 
 Alternatively,\
 1)Install cx_freeze\
-2)Do ``` python setup.py build ```\
+2)Do ``` python setup.py build ```
 
 (Not Working With Python 3.10. Update to 3.10.1 or downgrade)\
 
