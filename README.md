@@ -21,6 +21,12 @@ Alternatively,\
 
 (Not Working With Python 3.10. Update to 3.10.1 or downgrade)
 
+# Testing
+
+Real time: run FakeBoat.py and then App.py or the executable.
+
+Offline: run App.py or the executable and load "SampleData.mat".
+
 
 
 
