@@ -17,7 +17,7 @@ Alternatively,\
 1)Install cx_freeze\
 2)Do python setup.py build\
 
-# TO DO -- Add Recomendations
+
 
 
 
